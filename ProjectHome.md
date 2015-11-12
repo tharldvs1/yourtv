@@ -1,0 +1,1 @@
+This is a red5 server addon for broadcasting your flash video as a television. It uses MySQL.
